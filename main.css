@@ -1,3 +1,5 @@
-body{
+.bgc{
     background-color: #0F1D2F;
+    color:white;
+    font-family: Consolas, monaco, monospace;
 }
