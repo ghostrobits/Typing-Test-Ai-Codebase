@@ -1,0 +1,4 @@
+main - 162B3C - use for sub items
+sub - 0F1D2F  - Background
+
+others - match theme - (052238,122840,002E3D)
